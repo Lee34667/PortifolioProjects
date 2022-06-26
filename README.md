@@ -1,1 +1,1 @@
-This is a small experiment of using the SSMS to that helps in data analytics.
+This is a small experiment of using the SSMS that helps in data analytics.
