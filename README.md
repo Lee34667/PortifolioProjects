@@ -1,1 +1,1 @@
-This is a small experiment of using the SSMS that helps in data analytics.
+In this repository will be some of the codes and queries from the Portfolio Projects  I create.
